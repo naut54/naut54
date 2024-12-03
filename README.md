@@ -11,7 +11,7 @@ I'm currently studiyng software development and learning as much as I can, I'm a
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=naut54&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=naut54&theme=dark&hide_border=true)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=naut54&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
